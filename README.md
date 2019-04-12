@@ -1,5 +1,9 @@
 # 用户服务
 
+```
+spring boot mybatis dubbo jsonRpc微服务demo
+```
+
 ## 前提
 * 数据库配置正确
 * ZooKeeper连接信息正确 
